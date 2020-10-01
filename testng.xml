@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+    <test verbose="2" preserve-order="true" name="C:/Users/Personal/IdeaProjects/AssignmentICT">
+        <classes>
+            <class name="TC1"></class>
+            <class name="TC2"></class>
+            <class name="TC3"></class>
+            <class name="TC4"></class>
+            <class name="TC5"></class>
+            <class name="TC6"></class>
+            <class name="TC7"></class>
+            <class name="TC8"></class>
+            <class name="TC9"></class>
+            <class name="Reports"></class>
+        </classes>
+
+    </test>
+</suite>
